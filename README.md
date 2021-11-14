@@ -1,6 +1,6 @@
-#Node.JS 2021 Q4
+# Node.JS 2021 Q4
 
-##[Task1 Ciphering CLI Tool](https://github.com/rolling-scopes-school/basic-nodejs-course/blob/master/descriptions/ciphering-cli-tool.md)
+## [Task1 Ciphering CLI Tool](https://github.com/rolling-scopes-school/basic-nodejs-course/blob/master/descriptions/ciphering-cli-tool.md)
 
 ---
 
